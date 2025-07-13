@@ -21,5 +21,5 @@
 | Night Bot | Automates night shift logs | Python, Selenium |
 
 ## 📫 Contact Me
-- 📧 Email: your-email@example.com
+- 📧 Email: avezkhan69t@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
